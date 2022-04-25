@@ -2,7 +2,7 @@
 widget: pages
 widget_id: lld
 headless: true
-weight: 20
+weight: 10
 title: Latest News
 subtitle: null
 content:
@@ -20,8 +20,7 @@ design:
   view: 3
   columns: "1"
   background:
-    color: "#ff0000"
-    text_color_light: true
-    image: welcome.jpg
+    color: "#ffffff"
+    text_color_light: false
+    image: ""
 ---
-testeste asfashdfsjsdvdvdsfbsdfb
